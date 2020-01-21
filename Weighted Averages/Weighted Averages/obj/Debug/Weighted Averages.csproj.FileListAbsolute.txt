@@ -1,0 +1,27 @@
+c:\users\owner\documents\visual studio 2012\Projects\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2012\Projects\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe
+c:\users\owner\documents\visual studio 2012\Projects\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.exe
+c:\users\owner\documents\visual studio 2012\Projects\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.pdb
+F:\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe.config
+F:\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.exe
+F:\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.pdb
+E:\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe.config
+E:\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.exe
+E:\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.pdb
+E:\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe
+E:\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.pdb
+E:\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Pictures\Camera Roll\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe.config
+C:\Users\Owner\Pictures\Camera Roll\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.exe
+C:\Users\Owner\Pictures\Camera Roll\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.pdb
+C:\Users\Owner\Pictures\Camera Roll\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe
+C:\Users\Owner\Pictures\Camera Roll\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.pdb
+C:\Users\Owner\Pictures\Camera Roll\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.csprojResolveAssemblyReference.cache
+C:\Users\gregy\Desktop\Practice_Folder\Weighted Averages\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe.config
+C:\Users\gregy\Desktop\Practice_Folder\Weighted Averages\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.exe
+C:\Users\gregy\Desktop\Practice_Folder\Weighted Averages\Weighted Averages\Weighted Averages\bin\Debug\Weighted Averages.pdb
+C:\Users\gregy\Desktop\Practice_Folder\Weighted Averages\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.csprojAssemblyReference.cache
+C:\Users\gregy\Desktop\Practice_Folder\Weighted Averages\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.exe
+C:\Users\gregy\Desktop\Practice_Folder\Weighted Averages\Weighted Averages\Weighted Averages\obj\Debug\Weighted Averages.pdb
